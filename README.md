@@ -1,4 +1,4 @@
-# Pruebas Coberura de código
+# Pruebas de Coberura de código
 Pruebas varias de código
 
 Para ejecutar las pruebas y generar los informes de cobertura seguir las instrucciones de esta pagina https://learn.microsoft.com/es-es/dotnet/core/testing/unit-testing-code-coverage?tabs=windows
